@@ -1,7 +1,3 @@
-baseURL: "https://example.com/"
-languageCode: "en-us"
-title: "MyDocs"
-theme: "hugo-theme"
 
 params:
   author: "Your Name"
