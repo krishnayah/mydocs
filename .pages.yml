@@ -3,5 +3,4 @@ content:
     label: Posts
     type: rich-text
     path: content/docs
-    type: collection
     
