@@ -1,6 +1,5 @@
 content:
   - name: posts
     label: Posts
-    type: rich-text
     path: content/docs
     
